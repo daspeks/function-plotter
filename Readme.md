@@ -1,6 +1,20 @@
+# Function Plotter
+A simple Python program to plot continuous functions on the `turtle` window.
+
 ![quality](https://img.shields.io/scrutinizer/quality/g/daspeks/function-plotter)
 ![build](https://img.shields.io/scrutinizer/build/g/daspeks/function-plotter)
 
-1. To run: `python3 FunctionPlotter.py`
-2. To plot: Enter functions of x to plot them on screen. For example, sin(x), cos(x), x+3
-3. To exit: Enter an empty string `""`
+## Setup
+
+### Run
+```python3 FunctionPlotter.py```
+
+### Plot
+Enter functions of x to plot them on screen. For example, sin(x), cos(x), x+3
+
+### Exit
+Enter an empty string `""`
+
+## Acknowledgements
+
+Thanks to [Benjamin Stephenson](http://pages.cpsc.ucalgary.ca/~bdstephe/index.php) for his `SimpleGraphics` library.
