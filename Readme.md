@@ -10,7 +10,7 @@ A simple Python program to plot continuous functions on the `turtle` window.
 ```python3 FunctionPlotter.py```
 
 ### Plot
-Enter functions of x to plot them on screen. For example, sin(x), cos(x), x+3
+Enter functions of x to plot them on screen
 
 ### Exit
 Enter an empty string `""`
